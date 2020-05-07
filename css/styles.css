@@ -1,0 +1,15 @@
+.introduction{
+  font-style:italic;
+  text-align:center;
+}
+h2.introduction{
+  font-size:30px;
+  color:red;
+}
+p.introduction{
+  font-size:20px;
+  color:blue;
+}
+img.introduction{
+  background-color:blue
+}
