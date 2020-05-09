@@ -1,3 +1,22 @@
+@media screen (min-width: 320px) and (max-width:767px){
+  body{
+    border:2px solid black;
+    color:white;
+  }
+}
+@media screen (min-width:767px){
+  body{
+    border:yellowgreen;
+  }
+  .column{
+    width:220px;
+    float:left;
+    padding:10px;
+    margin:10px;
+  }
+}
+
+
 .introduction{
   font-style:italic;
   text-align:center;
@@ -12,5 +31,5 @@
   color:blue;
 }
 img.introduction{
-  background-color:blue
+  background-color:blue;
 }
