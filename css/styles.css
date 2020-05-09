@@ -1,12 +1,13 @@
 .introduction{
   font-style:italic;
   text-align:center;
+  background-color:grey;
 }
-h2.introduction{
+.introduction h2{
   font-size:30px;
   color:red;
 }
-p.introduction{
+.introduction p{
   font-size:20px;
   color:blue;
 }
